@@ -4,18 +4,18 @@
 	id        = "com.omtamil-app-workshop"
 	versionCode="1"
 	version   = "1.0">
-<name>OMTAMIL APP WORKSHOP</name>
+<name>LessonPlanner</name>
 <description>
 A Demo App for Mobile Development Workshop</description>
-<author href="omtamil.com" 
-email="muhelen@omtamil.com">
-MUHELEN MURUGAN
+<author href="enitha.com" 
+email="enitha@gmail.com">
+ENITHA EYALARSAN
 </author>
 	<gap:platform name="ios" />
 	<gap:platform name="android" />
 	<gap:platform name="winphone" />
-	<preference name="phonegap-version" value="3.3.0" />
-	<preference name="orientation" value="portrait" />
+	<preference name="phonegap-version" value="3.5.0" />
+	<preference name="orientation" value="default" />
 	<preference name="fullscreen" value="false" />
 	<preference name="webviewbounce" value="false" />
 	<preference name="DisallowOverscroll" value="true"/>
